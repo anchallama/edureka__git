@@ -1,0 +1,6 @@
+public class name{
+
+
+int i=0;
+string a ="i";
+}
